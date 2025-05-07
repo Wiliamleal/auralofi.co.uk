@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.auralofi.co.uk/sitemap.xml
+Sitemap: https://auralofi.co.uk/sitemap.xml
