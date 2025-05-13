@@ -1,9 +1,21 @@
 [[redirects]]
-  from = "https://www.auralofi.co.uk/*"
+  from = "http://auralofi.co.uk/*"
   to = "https://auralofi.co.uk/:splat"
   status = 301
   force = true
 
+[[redirects]]
+  from = "http://www.auralofi.co.uk/*"
+  to = "https://auralofi.co.uk/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.auralofi.co.uk/*"
+  to = "https://auralofi.co.uk/:splat"
+  status = 301
+  force = true
+  
 [[redirects]]
   from = "/#*"
   to = "/"
